@@ -8,82 +8,20 @@ topic includes a PDF and a matching `.txt` file with the SlideShare description.
 
 | # | Topic | SlideShare | Authors | Verified |
 |---|-------|------------|---------|----------|
-| 01 | Technical Laboratory Report: Inductor | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-inductor-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287498677) | Ulker Aliyeva · Nazile Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 02 | Audit: ELV / LV Designer Job Listing — Gaps & Recommendations | [link](https://www.slideshare.net/slideshow/audit-elv-lv-designer-job-listing-4-gaps-recommendations-by-ulker-aliyeva-and-ali-shukurov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287388816) | Ulker Aliyeva · Ali Shukurov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 03 | Technical Laboratory Report: Amplifier | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-amplifier-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287037036) | Ulker Aliyeva · Nazile Aliyeva | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 04 | Technical Laboratory Report: Transistor | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-transistor-ulker-aliyeva-nazile-aliyeva-fazil-isgender-ali-shukurov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-5488/286914741) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender · Ali Shukurov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 05 | Capacitor | [link](https://www.slideshare.net/slideshow/capacitor-description-ulkar-aliyeva-imran-cherchiyev-xaqani-cafarli-pptx/286799787) | Ulkar Aliyeva · Imran Cherchiyev · Xaqani Cafarli | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 06 | Technical Laboratory Report: Voltage Regulator | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-voltage-regulator-ulker-aliyeva-nazile-aliyeva-fazil-isgender-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505121) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 07 | Technical Laboratory Report: Light-Sensitive Switch (LDR & Voltage Divider) | [link](https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 08 | Electronics Project — 12/03 | [link](https://www.notion.so/Electronics-project-12-03-321bd0fa66d980c0862fe754a10fa3b2) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 09 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazrin Aliyeva · Ulkar Aliyeva · Nazila Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 01 | Key Challanges | [link]https://www.slideshare.net/slideshow/key-challenges-and-development-barriers-in-azerbaijan-s-electronics-industry-by-nazrin-aliyeva-fazil-isgandar/287388256 | Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 02 | Technical Laboratory Report: Transistor | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-transistor-ulker-aliyeva-nazile-aliyeva-fazil-isgender-ali-shukurov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-5488/286914741) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender · Ali Shukurov | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 03 | Capacitor | [link]https://www.slideshare.net/slideshow/capacitor_task-nazrin-dilara-fazil/286799624 | Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 04 | Technical Laboratory Report: Voltage Regulator | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-voltage-regulator-ulker-aliyeva-nazile-aliyeva-fazil-isgender-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505121) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 05 | Technical Laboratory Report: Light-Sensitive Switch (LDR & Voltage Divider) | [link](https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 06 | Electronics Project — 12/03 | [link](https://www.notion.so/Electronics-project-12-03-321bd0fa66d980c0862fe754a10fa3b2) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 07 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazrin Aliyeva · Ulkar Aliyeva · Nazila Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 
 ---
 
---------------------
+-------------------
 1.Topic
 
-https://www.slideshare.net/slideshow/technical-laboratory-report-inductor-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287498677
-
-verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
-https://www.instagram.com/physics_teacher_azerbaijan
-
-# Inductors in Electronics — Technical Laboratory Report
-
-A 10-slide technical laboratory report on inductors and their behaviour in
-electronic circuits, prepared as part of an Electronics & Circuit Theory
-laboratory module.
-
-**Authors:** Ulker Aliyeva · Nazile Aliyeva
-**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
-
----
-
-## Topics Covered
-
-- Inductor fundamentals — energy stored in a magnetic field
-- Lenz's Law and back-EMF behaviour
-- Inductance units — Henry (H), mH, μH
-- Magnetic flux: `Φ = L · I`
-- Stored energy: `W = (1/2) · L · I²`
-- Common inductor types (Air, Iron, Ferrite, Toroidal cores)
-- Key selection criteria (DCR, Saturation Current, Q-factor, SRF)
-- Applications: filtering, energy storage, chokes, LC tuning
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `01_inductor.pdf` | Full 10-slide laboratory report |
-| `01_inductor.txt` | SlideShare description |
-
----
-
-## Subject
-
-- **Field:** Electronics / Electromagnetic Theory
-- **Type:** Technical Laboratory Report
-- **Language:** English
-- **Location:** Azerbaijan, Baku
-
---------------------
-2.Topic
-
-https://www.slideshare.net/slideshow/audit-elv-lv-designer-job-listing-4-gaps-recommendations-by-ulker-aliyeva-and-ali-shukurov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287388816
-
-verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
-https://www.instagram.com/physics_teacher_azerbaijan
-
-# Audit: ELV / LV Designer Job Listing — Gaps & Recommendations
-
-A 10-slide audit analysing a job listing for an ELV (Extra-Low Voltage) / LV
-(Low Voltage) Designer role, identifying 4 key gaps in the listing and
-proposing actionable recommendations for improvement.
-
-**Authors:** Ulker Aliyeva · Ali Shukurov
-**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
+https://www.slideshare.net/slideshow/key-challenges-and-development-barriers-in-azerbaijan-s-electronics-industry-by-nazrin-aliyeva-fazil-isgandar/287388256
 
 ---
 
@@ -92,16 +30,7 @@ proposing actionable recommendations for improvement.
 - Quick summary of the listing
 - Identified gaps (4 key issues found in the original posting)
 - Recommendations for each gap
-- Practical improvements for clarity, scope, and candidate requirements
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `02_elv_lv_audit.pdf` | Full 10-slide audit presentation |
-| `02_elv_lv_audit.txt` | SlideShare description |
+- Practical improvements for clarity, scope, and candidate requirements|
 
 ---
 
@@ -113,53 +42,7 @@ proposing actionable recommendations for improvement.
 - **Location:** Azerbaijan, Baku
 
 --------------------
-3.Topic
-
-https://www.slideshare.net/slideshow/technical-laboratory-report-amplifier-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287037036
-
-verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
-https://www.instagram.com/physics_teacher_azerbaijan
-
-# Amplifier — Technical Laboratory Report
-
-An 8-slide technical laboratory report on electronic amplifiers — their
-operating principles, key parameters, and circuit behaviour, prepared as part
-of an Electronics laboratory module.
-
-**Authors:** Ulker Aliyeva · Nazile Aliyeva
-**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
-
----
-
-## Topics Covered
-
-- Amplifier definition — active circuit that augments signal power, voltage, or current
-- Core parameters: input/output signals, impedances, gain (A_V, A_P), bandwidth
-- Voltage gain formula: `A_V = V_out / V_in` (and in dB: `20 log₁₀(A_V)`)
-- Energy conversion role — amplifier as DC→AC converter
-- Linear vs non-linear behaviour, clipping & distortion
-- Practical lab measurements and observations
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `03_amplifier.pdf` | Full 8-slide amplifier laboratory report |
-| `03_amplifier.txt` | SlideShare description |
-
----
-
-## Subject
-
-- **Field:** Electronics / Analog Circuits
-- **Type:** Technical Laboratory Report
-- **Language:** English
-- **Location:** Azerbaijan, Baku
-
---------------------
-4.Topic
+2.Topic
 
 https://www.slideshare.net/slideshow/technical-laboratory-report-transistor-ulker-aliyeva-nazile-aliyeva-fazil-isgender-ali-shukurov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-5488/286914741
 
@@ -205,9 +88,9 @@ part of an Electronics laboratory module.
 - **Location:** Azerbaijan, Baku
 
 --------------------
-5.Topic
+3.Topic
 
-https://www.slideshare.net/slideshow/capacitor-description-ulkar-aliyeva-imran-cherchiyev-xaqani-cafarli-pptx/286799787
+https://www.slideshare.net/slideshow/capacitor_task-nazrin-dilara-fazil/286799624
 
 verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/
 https://www.instagram.com/physics_teacher_azerbaijan
@@ -217,9 +100,6 @@ https://www.instagram.com/physics_teacher_azerbaijan
 A 1-slide visual infographic introducing the capacitor: a passive electronic
 component that stores electrical energy in an electric field between two
 conductive plates separated by a dielectric.
-
-**Authors:** Ulkar Aliyeva · Imran Cherchiyev · Xaqani Cafarli
-**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
 
 ---
 
@@ -252,7 +132,7 @@ conductive plates separated by a dielectric.
 - **Location:** Azerbaijan, Baku
 
 --------------------
-6.Topic
+4.Topic
 
 https://www.slideshare.net/slideshow/technical-laboratory-report-voltage-regulator-ulker-aliyeva-nazile-aliyeva-fazil-isgender-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505121
 
@@ -311,7 +191,7 @@ Power Systems laboratory module.
 - **Location:** Azerbaijan, Baku
 
 --------------------
-7.Topic
+5.Topic
 
 https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider
 
@@ -367,7 +247,7 @@ at the top of this section.
 - **Location:** Azerbaijan, Baku
 
 --------------------
-8.Topic
+6.Topic
 
 https://www.notion.so/Electronics-project-12-03-321bd0fa66d980c0862fe754a10fa3b2
 
@@ -418,7 +298,7 @@ linked Notion page above.
 - **Location:** Azerbaijan, Baku
 
 --------------------
-9.Topic
+7.Topic
 
 https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252
 
