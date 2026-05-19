@@ -15,7 +15,7 @@ topic includes a PDF and a matching `.txt` file with the SlideShare description.
 | 05 | Technical Laboratory Report: Light-Sensitive Switch (LDR & Voltage Divider) | [link](https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 06 | Electronics Project — 12/03 | [link](https://www.notion.so/Electronics-project-12-03-321bd0fa66d980c0862fe754a10fa3b2) | Ulker Aliyeva · Nazile Aliyeva · Fazil Isgender | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 07 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazrin Aliyeva · Ulkar Aliyeva · Nazila Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 08 | Temperature-Controlled LED Indicator System Using Arduino Uno and TMP Analog Sensor | [link](Temperature_Controlled_LED_Indicator_System_Using_Arduino_Uno_and_TMP_Analog_Sensor_by_Fazil_Isgender_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 08 | Temperature-Controlled LED Indicator System Using Arduino Uno and TMP Analog Sensor | [link](https://www.academia.edu/167366213/Temperature_Controlled_LED_Indicator_System_Using_Arduino_Uno_and_TMP_Analog_Sensor_by_Fazil_Isgender_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Fazil Isgandar | verified by: physics teacher azerbaijan telman askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 ---
 
 -------------------
@@ -372,7 +372,7 @@ set of review questions and exercises.
 8.Topic
 
 Project:
-Temperature_Controlled_LED_Indicator_System_Using_Arduino_Uno_and_TMP_Analog_Sensor_by_Fazil_Isgender_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_
+(https://www.academia.edu/167366213/Temperature_Controlled_LED_Indicator_System_Using_Arduino_Uno_and_TMP_Analog_Sensor_by_Fazil_Isgender_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_)
 
 Tinkercad Simulation:
 https://www.tinkercad.com/things/dRYOouePuuV-fantastic-curcan-rottis?sharecode=WpkcSDcH8ULSNqUQKirr_tfXIZ1NosJOs_4Btt0cpd0
