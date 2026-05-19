@@ -386,33 +386,127 @@ https://www.instagram.com/physics_teacher_azerbaijan
 # Temperature-Controlled LED Indicator System Using Arduino Uno and TMP Analog Sensor
 
 This paper presents the design and implementation of a temperature-controlled LED indicator system using an Arduino Uno microcontroller and a TMP analog temperature sensor. The circuit progressively activates three LEDs (blue, green, red) based on real-time temperature thresholds, providing a visual representation of thermal conditions. Current-limiting resistors of 220 Ohm protect each LED, and all calculations confirm safe operation within component ratings.
+**Author:** Fazil Isgender
+**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
 
 ---
-
-## Core Concepts
-
-- **Structure** — Parallel plates with a dielectric insulator
-- **Charging** — Positive and negative charges accumulate on opposite plates when connected to a battery
-- **Energy** — Builds up an electric field, storing energy
-- **Behaviour** — Releases & discharges energy when needed
-- **Common types** — Ceramic, Electrolytic, Film
-- **Key features** — Stores energy, releases quickly, no current flow through
-- **Applications** — Smoothing & filtering, timing circuits, power supply stabilization
-
+ 
+## Project Overview
+ 
+| Part        | Approach                      | Key components                                              | Output                                      |
+| ----------- | ----------------------------- | ----------------------------------------------------------- | ------------------------------------------- |
+| **Project** | Arduino + analog TMP sensor   | TMP sensor · Arduino UNO · 3× LED (Blue/Green/Red) · 3× 220 Ω | LEDs activate progressively with temperature |
+ 
 ---
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `05_capacitor.pdf` | 1-slide capacitor infographic |
-| `05_capacitor.txt` | SlideShare description |
-
+ 
+## Circuit
+ 
+[![Temperature LED circuit — TinkerCAD breadboard layout](images/breadboard.png)](images/breadboard.png)
+ 
+[![Temperature LED circuit — schematic](images/schematic.png)](images/schematic.png)
+ 
+Three LEDs connect from digital pins D8, D9, D10 through 220 Ω
+current-limiting resistors to GND. The TMP sensor is powered from the 5 V
+rail, its VOUT pin feeds analog pin A0, and a 220 Ω resistor connects it
+to GND.
+ 
+---
+ 
+## Arduino Sketch
+ 
+```cpp
+int led1 = 8;   // Blue LED
+int led2 = 9;   // Green LED
+int led3 = 10;  // Red LED
+int temp;
+int temppin = A0;
+ 
+void setup() {
+  pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
+  pinMode(led3, OUTPUT);
+  Serial.begin(9600);
+}
+ 
+void loop() {
+  temp = ((analogRead(temppin) * 4.88) - 500) / 10;
+  Serial.print("temp=");
+  Serial.println(temp);
+ 
+  if (temp < 25) {
+    digitalWrite(led1, HIGH);   // Blue ON
+    digitalWrite(led2, LOW);
+    digitalWrite(led3, LOW);
+  }
+  if ((temp > 25) && (temp < 50)) {
+    digitalWrite(led1, HIGH);   // Blue + Green ON
+    digitalWrite(led2, HIGH);
+    digitalWrite(led3, LOW);
+  }
+  if (temp > 50) {
+    digitalWrite(led1, HIGH);   // All ON
+    digitalWrite(led2, HIGH);
+    digitalWrite(led3, HIGH);
+  }
+}
+```
+ 
+**Temperature conversion formula:**
+`temp = (analogRead(A0) × 4.88 − 500) / 10`
+ 
+The TMP sensor outputs 10 mV/°C with a 500 mV offset at 0°C.
+The 4.88 factor converts the 10-bit ADC value to millivolts (5000 mV / 1024).
+ 
+---
+ 
+## LED Behaviour by Temperature Zone
+ 
+| Zone | Temperature  | Blue LED | Green LED | Red LED | Meaning              |
+| ---- | ------------ | -------- | --------- | ------- | -------------------- |
+| Cold | Below 25°C   | ON       | OFF       | OFF     | Low temperature      |
+| Warm | 25°C – 50°C  | ON       | ON        | OFF     | Moderate temperature |
+| Hot  | Above 50°C   | ON       | ON        | ON      | High temperature     |
+ 
+---
+ 
+## Key Calculations
+ 
+**Current through each LED:** `I = (Vcc − Vf) / R`
+ 
+Forward voltages determined experimentally in TinkerCAD simulation:
+ 
+| LED   | Vf (V) | R (Ω) | I_LED (mA) | Status          |
+| ----- | ------ | ----- | ---------- | --------------- |
+| Blue  | 4.88   | 220   | 0.55       | Safe (< 20 mA)  |
+| Green | 3.52   | 220   | 6.73       | Safe (< 20 mA)  |
+| Red   | 3.08   | 220   | 8.73       | Safe (< 20 mA)  |
+ 
+**Burnout threshold** (minimum resistor before LED failure, verified by simulation):
+ 
+```
+Red   → burns out at R ≤ 96 Ω   →  Vf = 5 − (0.02 × 96) = 3.08 V
+Green → burns out at R ≤ 74 Ω   →  Vf = 5 − (0.02 × 74) = 3.52 V
+Blue  → burns out at R ≤ 6 Ω    →  Vf = 5 − (0.02 × 6)  = 4.88 V
+```
+ 
+The 220 Ω resistors used are well above all three burnout thresholds.
+ 
+---
+ 
+## Troubleshooting
+ 
+| Case                           | What happened              | Why                                                        |
+| ------------------------------ | -------------------------- | ---------------------------------------------------------- |
+| Resistor removed from LED path | LED instantly burned out   | Full 5 V applied → current limited only by LED resistance  |
+| A0 disconnected                | temp = 0 always            | No voltage read from sensor → formula outputs ~−50°C       |
+| LED inserted backwards         | LED does not light up      | Reversed polarity — anode must face the resistor side      |
+ 
 ---
 
 ## Subject
-
-- **Field:** Electronics / Passive Components
-- **Type:** Educational Infographic
+ 
+- **Field:** Electronics / Embedded Systems
+- **Type:** Engineering Laboratory Project (Arduino + TMP sensor)
 - **Language:** English
 - **Location:** Azerbaijan, Baku
+ 
