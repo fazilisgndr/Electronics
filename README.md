@@ -348,9 +348,9 @@ This paper presents the design and implementation of a temperature-controlled LE
  
 ## Circuit
  
-[![Temperature LED circuit — TinkerCAD breadboard layout](8_temperature_led_indicator/breadboard.png)](8_temperature_led_indicator/breadboard.png)
+[![Temperature LED circuit — TinkerCAD breadboard layout](8_temperature_led_indicator/breadboard.jpg)](8_temperature_led_indicator/breadboard.jpg)
  
-[![Temperature LED circuit — schematic](8_temperature_led_indicator/schematic.png)](8_temperature_led_indicator/schematic.png)
+[![Temperature LED circuit — schematic](8_temperature_led_indicator/schematic.jpg)](8_temperature_led_indicator/schematic.jpg)
  
 Three LEDs connect from digital pins D8, D9, D10 through 220 Ω
 current-limiting resistors to GND. The TMP sensor is powered from the 5 V
