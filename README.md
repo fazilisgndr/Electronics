@@ -382,9 +382,7 @@ https://www.instagram.com/physics_teacher_azerbaijan
 
 # Temperature-Controlled LED Indicator System Using Arduino Uno and TMP Analog Sensor
 
-A 1-slide visual infographic introducing the capacitor: a passive electronic
-component that stores electrical energy in an electric field between two
-conductive plates separated by a dielectric.
+This paper presents the design and implementation of a temperature-controlled LED indicator system using an Arduino Uno microcontroller and a TMP analog temperature sensor. The circuit progressively activates three LEDs (blue, green, red) based on real-time temperature thresholds, providing a visual representation of thermal conditions. Current-limiting resistors of 220 Ohm protect each LED, and all calculations confirm safe operation within component ratings.
 
 ---
 
