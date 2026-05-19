@@ -1,8 +1,7 @@
 # Electronics Tasks
 
 Collection of electronics laboratory reports and presentations originally
-published on SlideShare. Each
-topic includes a PDF and a matching `.txt` file with the SlideShare description.
+published on SlideShare. 
 
 ## Index
 
@@ -72,15 +71,6 @@ part of an Electronics laboratory module.
 
 ---
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `04_transistor.pdf` | Full 6-slide transistor laboratory report |
-| `04_transistor.txt` | SlideShare description |
-
----
-
 ## Subject
 
 - **Field:** Electronics / Semiconductor Devices
@@ -113,15 +103,6 @@ conductive plates separated by a dielectric.
 - **Common types** — Ceramic, Electrolytic, Film
 - **Key features** — Stores energy, releases quickly, no current flow through
 - **Applications** — Smoothing & filtering, timing circuits, power supply stabilization
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `05_capacitor.pdf` | 1-slide capacitor infographic |
-| `05_capacitor.txt` | SlideShare description |
 
 ---
 
@@ -175,15 +156,6 @@ Power Systems laboratory module.
 
 ---
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `06_voltage_regulator.pdf` | Full 8-slide voltage regulator laboratory report |
-| `06_voltage_regulator.txt` | SlideShare description |
-
----
-
 ## Subject
 
 - **Field:** Electronics Engineering / Power Systems
@@ -232,14 +204,6 @@ at the top of this section.
 
 ---
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `07_light_sensitive_switch.txt` | Topic description and link to the full report |
-
----
-
 ## Subject
 
 - **Field:** Electronics / Sensor Circuits
@@ -280,14 +244,6 @@ for the 12/03 milestone.
 
 Full project notes, attachments, and ongoing updates are maintained in the
 linked Notion page above.
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `08_electronics_project_12_03.txt` | Topic description and link to the Notion workspace |
 
 ---
 
@@ -351,15 +307,6 @@ set of review questions and exercises.
 | Modes | Depletion-mode | Depletion or Enhancement |
 | Biasing | Self-bias via R_S | Voltage divider |
 | Use | Analog signal stages | Digital logic, power switching |
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `09_physics_guide_fets.pdf` | Full 7-slide Physics Guide on FETs |
-| `09_physics_guide_fets.txt` | SlideShare description |
 
 ---
 
