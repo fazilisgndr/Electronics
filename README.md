@@ -1,7 +1,7 @@
 # Electronics Tasks
 
 Collection of electronics laboratory reports and presentations originally
-published on [SlideShare](https://www.slideshare.net/ulkereliyeva800). Each
+published on SlideShare. Each
 topic includes a PDF and a matching `.txt` file with the SlideShare description.
 
 ## Index
